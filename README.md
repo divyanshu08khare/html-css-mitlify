@@ -1,1 +1,12 @@
-# html-css-mitlify
+# html-css-mintlify-page
+
+## Description
+Mintlify website home-page built with html and css.
+
+## live-project-link 
+https://divyanshu08khare.github.io/html-css-mitlify/
+
+## Setup-steps
+1) Download or clone the git repository :
+2) Navigate to "index.html" file
+3) Open the file in a browser
