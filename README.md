@@ -2,7 +2,7 @@
 
 ## Description
 Mintlify website home-page built with html and css.
-###Note - I have madethe light-theme version of the page.
+##Note - I have madethe light-theme version of the page.
 
 ## live-project-link 
 https://divyanshu08khare.github.io/html-css-mitlify/
